@@ -51,6 +51,9 @@ typings/
 config.json
 config.json*
 
+# Code workspace
+*.code-workspace
+
 # Optional npm cache directory
 .npm
 
